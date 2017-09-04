@@ -71,13 +71,13 @@
             android:layout_marginRight="@dimen/toast_radius"
             android:background="@color/toast_bar_color"/>
 
-        <View
-            android:id="@+id/show_bar"
-            android:layout_width="0dp"
-            android:layout_height="3dp"
-            android:layout_marginLeft="@dimen/toast_radius"
-            android:layout_marginRight="@dimen/toast_radius"
-            android:background="@color/toast_background"/>
+        <!--<View-->
+            <!--android:id="@+id/show_bar"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="3dp"-->
+            <!--android:layout_marginLeft="@dimen/toast_radius"-->
+            <!--android:layout_marginRight="@dimen/toast_radius"-->
+            <!--android:background="@color/toast_background"/>-->
 
     </RelativeLayout>
 
